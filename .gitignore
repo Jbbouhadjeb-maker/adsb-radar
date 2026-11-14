@@ -1,0 +1,7 @@
+.DS_Store
+data/*.json
+data/history_*.json
+dump1090.log
+*.backup.html
+*.backup-url.html
+index.before-*.html
